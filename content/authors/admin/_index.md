@@ -74,6 +74,6 @@ email: ''
 highlight_name: true
 ---
 
-I am PhD candidate in the Department of economics and a member of the DIAL research team at Paris Dauphine University, a college of PSL University. My research focuses on environmental health, technology adoption and gender equality in developing countries.
+I am PhD candidate in the Department of Economics and a member of the DIAL research team at Paris Dauphine University, a college of PSL University. My research focuses on environmental health, technology adoption and gender equality in developing countries.
 
 Before starting my PhD, I spent nine years working as a project manager in the NGO sector with a focus on access to energy and clean cooking.
