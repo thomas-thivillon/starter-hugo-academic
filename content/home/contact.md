@@ -37,8 +37,7 @@ content:
     latitude: 
     longitude: 
   directions: 
-#office_hours:
-#appointment_url:
+
 #contact_links:
     - icon: twitter
       icon_pack: fab
