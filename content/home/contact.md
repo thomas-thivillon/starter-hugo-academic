@@ -14,8 +14,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
+# Email form provider
   form:
     provider: netlify
     formspree:
@@ -39,7 +38,7 @@ content:
     longitude: 
   directions: 
   office_hours:
-  appointment_url:
+# appointment_url:
 #contact_links:
     - icon: twitter
       icon_pack: fab
